@@ -1,0 +1,1 @@
+/Users/futianfan/Downloads/EHR/SNOW/snowdata/training_data_1.txt
